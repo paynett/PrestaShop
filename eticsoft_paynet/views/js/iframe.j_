@@ -1,0 +1,4 @@
+$(document).ready(function() {
+	$("button.paynetj-button").addClass("btn btn-info");
+	$(".paynetj-button").click();
+});
