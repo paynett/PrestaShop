@@ -27,7 +27,4 @@ PayNet SanalPOS Modülü Prestashop e-ticaret sisteminize PayNet sanalPOS entegr
 # Yardım 
 
 * [PayNet web](https://paynet.com.tr) - PayNet Ödeme Kuruluşu A.Ş.
-* [EticSoft web](https://eticsoft.com) - EticSoft R&D Lab.
-* [EticSoft destek sistemi](https://eticsoft.com/support) - EticSoft R&D Lab.
-* [Eklentiler](https://eticsoft.com/shop) - EticSoft Shop.
 
